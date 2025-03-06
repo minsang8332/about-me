@@ -69,17 +69,10 @@
                     </a>
                 </li>
                 <li class="flex items-center gap-2">
-                    <span> 2022 ~ 2023 </span>
+                    <span> 2022 ~ </span>
                     <i class="fi fi-kr h-[1rem]" />
                     <a href="https://www.selvasai.com/" target="_blank">
                         {{ $t('index-page.experience.items.selvas-ai') }}
-                    </a>
-                </li>
-                <li class="flex items-center gap-2">
-                    <span> 2024 ~ </span>
-                    <i class="fi fi-kr h-[1rem]" />
-                    <a href="https://www.pentasecurity.co.kr/" target="_blank">
-                        {{ $t('index-page.experience.items.penta-security') }}
                     </a>
                 </li>
             </ul>
