@@ -9,16 +9,14 @@ index-page:
     development:
         title: 직무 스킬
         main:
-            title: 🥇 주로 JavaScript (Typescript)를 다룹니다.
+            title: 🥇 주로 Node.js를 다루고 있습니다.
             items:
-                1: vue2-3, nuxt2-3, vuetify2-3, quasar1-2, d3.js, chart.js, tailwindcss, scss ...
-                2: node14-20, electron.js, express, puppeteer, WebSocket, MQTT, NFC, RS232, Bluetooth ...
+                1: node14-20, electron.js, express, puppeteer, WebSocket, MQTT, NFC, RS232, Bluetooth ...
+                2: vue2-3, nuxt2-3.js, react.js
         sub:
-            title: 🥈 그 외 스킬로 프로그램 개발 경험이 있습니다.
+            title: 🥈 그 외 스킬 경험이 있습니다.
             items:
-                1: php, codeigniter, symfony, laravel, doctrine orm, eloquent orm
-                2: java, spring framework, spring boot, mybatis, hibernate, jsp, thymeleaf
-                3: mysql, mssql, mongodb, sqlite, redis
+                1: java, spring framework, spring boot, mybatis, hibernate, jsp, thymeleaf
         others:
             title: 🥉 서버 인프라 구축 경험이 있습니다.
             items:
@@ -35,6 +33,7 @@ index-page:
             connect-wave: ㈜커넥트웨이브
             selvas-ai: ㈜셀바스에이아이
             penta-security: ㈜펜타시큐리티
+            line-games: 라인게임즈
 note-page:
     subtitle: 📖 서투른 글쓰기가 좋은 기억보다 낫다.
     columns:

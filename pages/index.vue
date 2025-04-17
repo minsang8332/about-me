@@ -24,12 +24,6 @@
                 <li>
                     <p>{{ $t('index-page.development.sub.items.1') }}</p>
                 </li>
-                <li>
-                    <p>{{ $t('index-page.development.sub.items.2') }}</p>
-                </li>
-                <li>
-                    <p>{{ $t('index-page.development.sub.items.3') }}</p>
-                </li>
             </ul>
             <h4 v-intersect>{{ $t('index-page.development.others.title') }}</h4>
             <ul>
@@ -57,22 +51,29 @@
             <p v-intersect>{{ $t('index-page.experience.description') }}</p>
             <ul v-intersect>
                 <li class="flex items-center gap-2">
-                    <span> 2019 ~ 2020 </span>
+                    <span> 2019 - 2020</span>
                     <i class="fi fi-jp h-[1rem]" />
                     <a href="https://froide.co.jp/" target="_blank"> {{ $t('index-page.experience.items.freude') }}</a>
                 </li>
                 <li class="flex items-center gap-2">
-                    <span> 2020 ~ 2022 </span>
+                    <span> 2020 - 2022</span>
                     <i class="fi fi-kr h-[1rem]" />
                     <a href="https://connectwave.co.kr/" target="_blank">
                         {{ $t('index-page.experience.items.connect-wave') }}
                     </a>
                 </li>
                 <li class="flex items-center gap-2">
-                    <span> 2022 ~ </span>
+                    <span> 2022 - 2023</span>
                     <i class="fi fi-kr h-[1rem]" />
                     <a href="https://www.selvasai.com/" target="_blank">
                         {{ $t('index-page.experience.items.selvas-ai') }}
+                    </a>
+                </li>
+                <li class="flex items-center gap-2">
+                    <span> 2025 ~ </span>
+                    <i class="fi fi-kr h-[1rem]" />
+                    <a href="https://www.line.games/" target="_blank">
+                        {{ $t('index-page.experience.items.line-games') }}
                     </a>
                 </li>
             </ul>

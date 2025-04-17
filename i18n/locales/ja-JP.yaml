@@ -9,16 +9,14 @@ index-page:
     development:
         title: 開発スキル
         main:
-            title: 🥇 主にJavaScript（TypeScript)を扱っています。
+            title: 🥇 主にNode.jsを扱っています。
             items:
-                1: vue2-3, nuxt2-3, vuetify2-3, quasar1-2, d3.js, chart.js, tailwindcss, scss ...
-                2: node14-20, electron.js, express, puppeteer, WebSocket, MQTT, NFC, RS232, Bluetooth ...
+                1: node14-20, electron.js, express, puppeteer, WebSocket, MQTT, NFC, RS232, Bluetooth ...
+                2: vue2-3, nuxt2-3.js, react.js
         sub:
             title: 🥈 その他の技術でプログラム開発の経験があります。
             items:
-                1: php, codeigniter, symfony, laravel, doctine orm, eloquent orm
-                2: java, spring framework, spring boot, mybatis, hibernate, jsp, thymeleaf
-                3: mysql, mssql, mongodb, sqlite, redis
+                1: java, spring framework, spring boot, mybatis, hibernate, jsp, thymeleaf
         others:
             title: 🥉 また、サーバーインフラの構築経験もあります。
             items:
@@ -35,6 +33,7 @@ index-page:
             connect-wave: コネクトウェーブ
             selvas-ai: セルバスAI
             penta-security: ペンタセキュリティ
+            line-games: ラインゲームズ
 note-page:
     subtitle: 📖 下手な書き方は、良い記憶力よりも優れている。
     columns:

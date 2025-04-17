@@ -9,16 +9,14 @@ index-page:
     development:
         title: Developments
         main:
-            title: 🥇 I mainly have javascript (typescript) skills.
+            title: 🥇 I mainly have node.js
             items:
-                1: vue2-3, nuxt2-3, vuetify2-3, quasar1-2, d3.js, chart.js, tailwindcss, scss ...
-                2: node14-20, electron.js, express, puppeteer, WebSocket, MQTT, NFC, RS232, Bluetooth ...
+                1: node14-20, electron.js, express, puppeteer, WebSocket, MQTT, NFC, RS232, Bluetooth ...
+                2: vue2-3, nuxt2-3.js, react.js
         sub:
             title: 🥈 I have experience in program development with other skills.
             items:
-                1: php, codeigniter, symfony, laravel, doctine orm, eloquent orm
-                2: java, spring framework, spring boot, mybatis, hibernate, jsp, thymeleaf
-                3: mysql, mssql, mongodb, sqlite, redis
+                1: java, spring framework, spring boot, mybatis, hibernate, jsp, thymeleaf
         others:
             title: 🥉 Additionally, I have experience building server infrastructure.
             items:
@@ -35,6 +33,7 @@ index-page:
             connect-wave: Connect Wave Inc.
             selvas-ai: Selvas AI Inc.
             penta-security: Penta Security Pvt. Ltd.
+            line-games: LINE Games
 note-page:
     subtitle: 📖 Bad handwriting is better than a good memory.
     columns:
